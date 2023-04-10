@@ -1,120 +1,119 @@
-Which protocol is used for Socket Programming with UDP?
-UDP
-TCP
-HTTP
-FTP
+Which of the following is a characteristic of the Wawa cyber attack?
+Ransomware attack
+Denial-of-service attack
+Phishing attack
+Man-in-the-middle attack
 
-Which method is used to create a UDP socket in Python?
-socket(AF_INET, SOCK_DGRAM)
-socket(AF_INET, SOCK_STREAM)
-socket(AF_INET, SOCK_RAW)
-socket(AF_INET6, SOCK_DGRAM)
+What was the year in which the Wawa cyber attack occurred?
+2018
+2019
+2020
+2021
 
-Which of the following is a characteristic of UDP?
-Unreliable transmission
-Reliable transmission
-Connection-oriented
-Stream-oriented
+Which type of data was compromised in the Wawa cyber attack?
+Credit card data
+Social security numbers
+Medical records
+Email passwords
 
-In UDP, which function is used to send a message?
-sendto()
-send()
-write()
-transmit()
+Which malware was used in the Wawa cyber attack?
+Maze
+Ryuk
+TrickBot
+Emotet
 
-Which function is used to receive a message in UDP?
-recvfrom()
-receive()
-read()
-accept()
+Which of the following was a consequence of the Wawa cyber attack?
+Shutdown of all Wawa stores
+Lawsuit against Wawa by affected customers
+Resignation of Wawa's CEO
+No consequences reported
 
-Which header field is used to identify the port number in UDP?
-Destination port number
-Source IP address
-Destination IP address
-Source port number
+Which security measure could have prevented the Wawa cyber attack?
+Two-factor authentication
+Antivirus software
+Firewalls
+Strong passwords
 
-Which of the following is an advantage of UDP over TCP?
-Low latency
-Reliable transmission
-Congestion control
-High throughput
+Which of the following is a reason why Wawa was targeted in the cyber attack?
+It is a large retail chain
+It has weak cybersecurity measures
+It has a history of data breaches
+The reason is unknown
 
-Which of the following is an example of an application that uses UDP?
-Video conferencing
-File transfer protocol
-Email client
-Web browser
+Which group or individual was responsible for the Wawa cyber attack?
+North Korea
+Russian hackers
+Chinese hackers
+The identity of the attacker is unknown
 
-Which of the following is a disadvantage of UDP?
-Unreliable transmission
-High overhead
-Connection-oriented
-Slow data transfer rate
+Which of the following is not a common motivation for cyber attacks like the one on Wawa?
+Financial gain
+Espionage
+Political activism
+Charitable donations
 
-Which of the following is true about UDP?
-It does not establish a connection before data transfer.
-It guarantees packet delivery
-It guarantees packet ordering
-It uses a three-way handshake
+Which of the following is not a type of cyber attack?
+Phishing attack
+Vishing attack
+Ransomware attack
+Spear-phishing attack
 
-Which of the following is not a valid address family for UDP socket?
-AF_HTTP
-AF_INET
-AF_UNIX
-AF_PACKET
+Which of the following is not a common method of entry for cyber attacks?
+Email attachments
+Social engineering
+Weak passwords
+Phone calls
 
-Which of the following is not a valid socket type for UDP socket?
-SOCK_STREAM
-SOCK_DGRAM
-SOCK_RAW
-SOCK_PACKET
+Which of the following is not a common symptom of a cyber attack?
+Pop-up ads
+Unusual computer activity
+Slow computer performance
+Unexplained loss of data
 
-Which of the following functions can be used to bind a UDP socket to a specific IP address and port number?
-bind()
-connect()
-listen()
-accept()
+Which type of organization is most vulnerable to cyber attacks?
+Government agencies
+Small businesses
+Nonprofit organizations
+Large corporations
 
-Which of the following is not a valid parameter for the sendto() function in UDP socket programming?
-source address
-message
-flags
-destination address
+Which of the following is not a common precaution for preventing cyber attacks?
+Updating software regularly
+Avoiding suspicious links and downloads
+Using strong passwords
+Sharing login information with coworkers
 
-Which of the following is true about UDP packets?
-They can be lost or arrive out of order
-They are guaranteed to be delivered to the receiver
-They are guaranteed to arrive in the order in which they were sent
-They are always larger than TCP packets
+Which of the following is a common consequence of a cyber attack?
+Data theft
+Physical damage to hardware
+Natural disaster
+Improved cybersecurity measures
 
-Which of the following is not a valid UDP socket option?
-SO_TCP_NODELAY
-SO_REUSEADDR
-SO_BROADCAST
-SO_KEEPALIVE
+Which of the following is not a common motivation for improving cybersecurity measures?
+Compliance with regulations
+Protection of company reputation
+Employee morale
+Increase in sales
 
-Which of the following is not a valid method for handling packet loss in UDP socket programming?
-Retransmitting lost packets
-Using checksums to detect errors
-Discarding lost packets
-Implementing forward error correction
+Which of the following is not a common factor in determining the severity of a cyber attack?
+Number of people affected
+Type of data compromised
+Amount of money stolen
+Location of the attacker
 
-Which of the following is an advantage of UDP over TCP in socket programming?
-Lower latency
-Better reliability
-Higher data transfer rate
-Connection-oriented
+Which of the following is not a common way to respond to a cyber attack?
+Notify law enforcement
+Notify affected customers
+Shutdown all operations
+Conduct a forensic investigation
 
-Which of the following is a disadvantage of UDP over TCP in socket programming?
-Slower data transfer rate
-Higher overhead
-Limited packet size
-No support for multicasting
+Which of the following is a common method for recovery after a cyber attack?
+Restoring from backups
+Paying the ransom
+Reformatting the hard drive
+Doing nothing and hoping the problem goes away
 
-Which of the following statements is true about multicast communication in UDP socket programming?
-It can be used for one-to-many communication
-It is not supported by UDP
-It can only be used for one-to-one communication
-It can be used for broadcast communication
-
+Which of the following is not a common consequence of a data breach?
+Identity theft
+Credit score increase
+Financial loss
+Loss of customer trust
